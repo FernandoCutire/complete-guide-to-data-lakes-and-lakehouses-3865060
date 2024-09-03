@@ -135,7 +135,6 @@ dmypy.json
 .jupyterlab-debug.log
 
 # VS Code
-.vscode/
 
 # Spark
 spark-warehouse/
@@ -182,7 +181,6 @@ dbt_modules/
 Thumbs.db
 
 # IDE-specific files (e.g., for VSCode or PyCharm)
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -203,3 +201,7 @@ dist/
 
 # Superset
 superset.db
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
